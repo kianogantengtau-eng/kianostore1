@@ -2,8 +2,8 @@
 -- 1. PENGATURAN KEYAUTH (ISI SESUAI DASHBOARD KEYAUTH)
 --------------------------------------------------------------------------------
 local KEYAUTH_NAME     = "Kianogantengtau's Application"
-local KEYAUTH_OWNERID  = "PASTE_ACCOUNT_OWNER_ID_DI_SINI"
-local KEYAUTH_SECRET   = "PASTE_SECRET_DI_SINI"
+local KEYAUTH_OWNERID  = "hgKhTnARRi"
+local KEYAUTH_SECRET   = "7e3f9c695a992b490d8112b973a1c44f3f32e62093ac79834c7c922af8c6dbc4"
 
 --------------------------------------------------------------------------------
 -- 2. SETUP SERVICES & INITIALIZATION
