@@ -2,9 +2,9 @@
 -- 1. DAFTAR 3 KEY (UBAH TEKS KEY SESUAI KEINGINANMU DI SINI)
 --------------------------------------------------------------------------------
 local KEYS_LIST = {
-    ["KEY-PEMBELI-1"] = true,
-    ["KEY-PEMBELI-2"] = true,
-    ["KEY-PEMBELI-3"] = true
+    ["KIANO"] = true,
+    ["KIANOGANTENG"] = true,
+    ["KIANOGACOR"] = true
 }
 
 --------------------------------------------------------------------------------
